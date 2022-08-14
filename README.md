@@ -1,4 +1,4 @@
-# Hi, I'm Giuseppe Rodriguez
+# Hi, I'm G.
 
 Blockchain Developer @HereNotThere 👨‍💻, Previously @aaveaave, @activetheory
 
@@ -6,7 +6,7 @@ Blockchain Developer @HereNotThere 👨‍💻, Previously @aaveaave, @activethe
 
 - 💻 Solidity | TypeScript | Javascript | Rust
 
-[![giuseppecrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppecrj&show_icons=true)](https://github.com/giuseppecrj)
+<!-- [![giuseppecrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppecrj&show_icons=true)](https://github.com/giuseppecrj) -->
 
 <h2>Follow  Me</h2>
 <p align="left">
