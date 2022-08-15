@@ -4,7 +4,7 @@ Blockchain Developer @HereNotThere 👨‍💻, Previously @aaveaave, @activethe
 
 ## Tech Stack
 
-- 💻 Solidity | TypeScript | Javascript | Rust
+- 💻 Solidity | TypeScript | Node.js
 
 <!-- [![giuseppecrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppecrj&show_icons=true)](https://github.com/giuseppecrj) -->
 
