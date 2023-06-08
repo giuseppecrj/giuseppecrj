@@ -1,6 +1,7 @@
 # Hi, I'm G.
 
-Blockchain Developer @HereNotThere 👨‍💻, Previously @aaveaave, @activetheory
+Blockchain Developer @HereNotThere 👨‍💻
+Previously @aaveaave, @activetheory
 
 ## Tech Stack
 
