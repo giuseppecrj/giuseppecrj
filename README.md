@@ -1,7 +1,8 @@
 # Hi, I'm G.
 
-Blockchain Developer @HereNotThere 👨‍💻
-Previously @aaveaave, @activetheory
+👨‍💻⛓️ Smart Contract Developer [@HereNotThere](https://twitter.com/hntlabs)
+<br/>
+Previously [@aaveaave](https://twitter.com/AaveAave), [@activetheory](https://twitter.com/active_theory)
 
 ## Tech Stack
 
