@@ -1,4 +1,4 @@
-# Hi, I'm G.
+# Hi, I'm Giuseppe or G.
 
 👨‍💻⛓️ Smart Contract Developer [@HereNotThere](https://twitter.com/hntlabs)
 <br/>
@@ -6,7 +6,7 @@ Previously [@aaveaave](https://twitter.com/AaveAave), [@activetheory](https://tw
 
 ## Tech Stack
 
-- 💻 Solidity | TypeScript | Node.js
+- 💻 Solidity | Go | TypeScript | Node.js
 
 <!-- [![giuseppecrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuseppecrj&show_icons=true)](https://github.com/giuseppecrj) -->
 
