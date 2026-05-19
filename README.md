@@ -1,30 +1,28 @@
 # Giuseppe Rodriguez (G)
 
-Software engineer in Brooklyn, NY building agent infrastructure, protocol systems, and real-time product surfaces.
+I'm a software engineer in Brooklyn. I build agent infrastructure, protocol systems, and products where the backend has to hold up under real use.
 
-Currently at [Towns Labs / Here Not There](https://github.com/HereNotThere), working on [Slashtalk](https://slashtalk.com/) — a floating team-context dock for Claude Code/Codex sessions, PRs, live work signals, conflict warnings, and MCP-accessible engineering context.
+Right now I'm at [Towns Labs / Here Not There](https://github.com/HereNotThere), working on [Slashtalk](https://slashtalk.com/): a desktop app that shows what a team is shipping by pulling together Claude/Codex sessions, PRs, file-conflict signals, and MCP-accessible project context.
 
-Before Slashtalk, I worked on [Towns Protocol](https://github.com/towns-protocol/towns), an open-source decentralized, end-to-end encrypted messaging protocol with programmable on-chain spaces, cross-chain entitlements, and Go/TypeScript/Solidity infrastructure.
-
-Previously: DeFi financial software at Aave and award-winning real-time interactive web systems at Active Theory.
+Before that I worked on [Towns Protocol](https://github.com/towns-protocol/towns), an open-source decentralized E2EE messaging protocol built with Go, TypeScript, and Solidity. Before Towns: DeFi software at Aave, and real-time interactive web systems at Active Theory.
 
 ## Selected work
 
-- [**Slashtalk**](https://github.com/HereNotThere/slashtalk) — coordination without meetings: desktop app + backend for live coding sessions, PR activity, collision warnings, and MCP-based team context.
-- [**Towns Protocol**](https://github.com/towns-protocol/towns) — open-source decentralized E2EE messaging protocol with programmable on-chain spaces, cross-chain entitlements, and Go/TypeScript/Solidity infrastructure.
-- [**harness-mcp**](https://github.com/giuseppecrj/harness-mcp) — TypeScript starter kit for MCP servers with typed tools, stdio/HTTP transports, structured agent-facing errors, and model-based tests.
-- [**pi-goals**](https://github.com/giuseppecrj/pi-goals) — Pi coding-agent extension for persistent goals, queues, budgets, and safer long-running agent work.
-- [**software-factory**](https://github.com/giuseppecrj/software-factory) — Bun/TypeScript CLI for shaping ideas into plans, prototypes, reviews, QA passes, and retros through isolated agent work.
-- [**wiki**](https://github.com/giuseppecrj/wiki) — LLM-maintained personal knowledge system: ingest sources, rewrite linked markdown pages, maintain topic hubs, and query durable context.
-- [**local-autoresearch**](https://github.com/giuseppecrj/local-autoresearch) — local-first autoresearch CLI with sparse frontier-advisor escalation.
-- [**solveit**](https://github.com/giuseppecrj/solveit) — Claude Code plugin that enforces small verified checkpoints, narrow diffs, and human-in-the-loop coding discipline.
+- [**Slashtalk**](https://github.com/HereNotThere/slashtalk) — desktop app + backend for live coding sessions, PR activity, conflict warnings, and MCP-based team context.
+- [**Towns Protocol**](https://github.com/towns-protocol/towns) — decentralized E2EE messaging protocol with programmable on-chain spaces and cross-chain entitlements.
+- [**harness-mcp**](https://github.com/giuseppecrj/harness-mcp) — TypeScript starter kit for MCP servers with typed tools, stdio/HTTP transports, model-facing errors, and model-based tests.
+- [**pi-goals**](https://github.com/giuseppecrj/pi-goals) — Pi extension for persistent goals, queues, budgets, and safer long-running agent sessions.
+- [**software-factory**](https://github.com/giuseppecrj/software-factory) — Bun/TypeScript CLI for turning an idea into plans, prototypes, reviews, QA passes, and retros with isolated agent work.
+- [**wiki**](https://github.com/giuseppecrj/wiki) — LLM-maintained markdown wiki that ingests sources, rewrites linked pages, and keeps durable context useful across sessions.
+- [**local-autoresearch**](https://github.com/giuseppecrj/local-autoresearch) — local-first research CLI with a cheap local loop and occasional frontier-model review.
+- [**solveit**](https://github.com/giuseppecrj/solveit) — Claude Code plugin for small verified checkpoints, narrow diffs, and human-in-the-loop coding discipline.
 
-## Technical focus
+## What I tend to work on
 
-- Agent infrastructure: MCP, skills, memory, workflow automation, eval loops, harness design.
-- Backend/product systems: TypeScript, Node/Bun, Go, APIs, WebSockets, Postgres, Redis, deployment infrastructure.
-- Protocol systems: Solidity, Foundry, EVM, tokenomics, cross-chain validation, indexing, security.
-- Product craft: simple UX around complex systems; useful software over demo-ware.
+- Agents: MCP, skills, memory, workflows, evals, harness design.
+- Product/backend systems: TypeScript, Node/Bun, Go, APIs, WebSockets, Postgres, Redis.
+- Protocols: Solidity, Foundry, EVM, tokenomics, cross-chain validation, indexing, security.
+- Product craft: making complicated systems feel simple enough that people actually use them.
 
 ## Links
 
