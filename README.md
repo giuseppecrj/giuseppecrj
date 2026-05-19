@@ -4,11 +4,14 @@ Software engineer in Brooklyn, NY building agent infrastructure, protocol system
 
 Currently at [Towns Labs / Here Not There](https://github.com/HereNotThere), working on [Slashtalk](https://slashtalk.com/) — a floating team-context dock for Claude Code/Codex sessions, PRs, live work signals, conflict warnings, and MCP-accessible engineering context.
 
-Previously: senior protocol engineering at Towns, DeFi financial software at Aave, and award-winning real-time interactive web systems at Active Theory.
+Before Slashtalk, I worked on [Towns Protocol](https://github.com/towns-protocol/towns), an open-source decentralized, end-to-end encrypted messaging protocol with programmable on-chain spaces, cross-chain entitlements, and Go/TypeScript/Solidity infrastructure.
+
+Previously: DeFi financial software at Aave and award-winning real-time interactive web systems at Active Theory.
 
 ## Selected work
 
 - [**Slashtalk**](https://github.com/HereNotThere/slashtalk) — coordination without meetings: desktop app + backend for live coding sessions, PR activity, collision warnings, and MCP-based team context.
+- [**Towns Protocol**](https://github.com/towns-protocol/towns) — open-source decentralized E2EE messaging protocol with programmable on-chain spaces, cross-chain entitlements, and Go/TypeScript/Solidity infrastructure.
 - [**harness-mcp**](https://github.com/giuseppecrj/harness-mcp) — TypeScript starter kit for MCP servers with typed tools, stdio/HTTP transports, structured agent-facing errors, and model-based tests.
 - [**pi-goals**](https://github.com/giuseppecrj/pi-goals) — Pi coding-agent extension for persistent goals, queues, budgets, and safer long-running agent work.
 - [**software-factory**](https://github.com/giuseppecrj/software-factory) — Bun/TypeScript CLI for shaping ideas into plans, prototypes, reviews, QA passes, and retros through isolated agent work.
