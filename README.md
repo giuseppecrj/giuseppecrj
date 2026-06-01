@@ -1,6 +1,6 @@
 # Giuseppe Rodriguez (G)
 
-I'm a software engineer in Brooklyn. I build agent infrastructure, protocol systems, and products where the backend has to hold up under real use.
+I'm a software engineer in New York. I build agent infrastructure, protocol systems, and products where the backend has to hold up under real use.
 
 Right now I'm at [Towns Labs / Here Not There](https://github.com/HereNotThere), working on [Slashtalk](https://slashtalk.com/): a desktop app that shows what a team is shipping by pulling together Claude/Codex sessions, PRs, file-conflict signals, and MCP-accessible project context.
 
