@@ -2,7 +2,7 @@
 
 I'm a software engineer in New York. I build agent infrastructure, protocol systems, and products where the backend has to hold up under real use.
 
-Right now I'm at [Towns Labs / Here Not There](https://github.com/HereNotThere), working on [Slashtalk](https://slashtalk.com/): a desktop app that shows what a team is shipping by pulling together Claude/Codex sessions, PRs, file-conflict signals, and MCP-accessible project context.
+Right now I'm at [Towns Labs / Here Not There](https://www.towns.com/), working on [Slashtalk](https://slashtalk.com/): a desktop app that shows what a team is shipping by pulling together Claude/Codex sessions, PRs, file-conflict signals, and MCP-accessible project context.
 
 Before that I worked on [Towns Protocol](https://docs.towns.com/introduction), an open-source decentralized E2EE messaging protocol built with Go, TypeScript, and Solidity. Before Towns: DeFi software at Aave, and real-time interactive web systems at Active Theory.
 
