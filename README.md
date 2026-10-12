@@ -1,8 +1,8 @@
 # Giuseppe Rodriguez
 
-New York–based software engineer building agent infrastructure, product systems, and protocol software that has to work under real use.
+New York based software and hardware engineer.
 
-I’m currently at [Towns Labs](https://www.towns.com/), working on on [Towns Protocol](https://docs.towns.com/introduction), an open-source decentralized messaging protocol on Base.
+I'm currently working on decentralized prediction market protocols at a stealth startup, while building embedded AI systems and personal self-hosted agent cloud infra on the side.
 
 ## Selected work
 
